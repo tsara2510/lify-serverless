@@ -1,0 +1,23 @@
+{
+  "name": "lify-serverless",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsara2510/lify-serverless.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsara2510/lify-serverless/issues"
+  },
+  "homepage": "https://github.com/tsara2510/lify-serverless#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
